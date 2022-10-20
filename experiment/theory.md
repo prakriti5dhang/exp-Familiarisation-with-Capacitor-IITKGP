@@ -141,7 +141,7 @@ Equivalent Capacitance for two capacitors in series,
 When the capacitors are connected in parallel the total capacitance value is increased. There are some applications where higher capacitance values are required.
 <div align="center">
 <img src="images/capa2.png" width="10%">
-<p>Figure: 11 </p>
+<p>Figure: 12 </p>
 </div>
 
 
@@ -165,7 +165,7 @@ The ammeter will
 
 <div align="center">
 <img src="images/i5.png" width="10%">
-<p>Figure: 12 </p>
+<p>Figure: 13 </p>
 </div>
 
 Now let’s place large metal plate at each of the connectors a few millimetres apart.
@@ -178,7 +178,7 @@ The Ammeter will
 
 <div align="center">
 <img src="images/i6.png" width="10%">
-<p>Figure: 13 </p>
+<p>Figure: 14 </p>
 </div>
 Let us extend this by placing a galvanometer on both sides of the capacitor and using a two-way switch .
 What will happen when the switch is connected to ‘P’?
@@ -190,7 +190,7 @@ For both of the Ammeters
 - They flick in opposite dirs
 <div align="center">
 <img src="images/i7.png" width="10%">
-<p>Figure: 14 </p>
+<p>Figure: 15 </p>
 </div>
 
 After moving to ‘P’ now the switch is moved to ‘O’.
@@ -203,7 +203,7 @@ For both of the Ammeters
 
 <div align="center">
 <img src="images/i8.png" width="10%">
-<p>Figure: 15 </p>
+<p>Figure: 16 </p>
 </div>
 Instead of moving to ’P’ the first time ,if the switch is first moved to ‘O’ .
 what will happen?
@@ -214,7 +214,7 @@ For both of the Ammeters
 - They flick in opposite dirs
 <div align="center">
 <img src="images/i9.png" width="10%">
-<p>Figure: 16 </p>
+<p>Figure: 17 </p>
 </div>
 
 The behaviour of the ammeter needles in the previous experiment suggests that a current flow firstly one way ,then the other as the switch is moved from P to O. So, this suggests
@@ -224,7 +224,7 @@ The behaviour of the ammeter needles in the previous experiment suggests that a 
 - No charge flows at all
 <div align="center">
 <img src="images/i10.png" width="10%">
-<p>Figure: 17 </p>
+<p>Figure: 18 </p>
 </div>
 
 ### Charging and Discharging
@@ -236,14 +236,14 @@ We say that the capacitor is charged up when connected to P and discharged when 
 The plate on the capacitor that attaches to the negative terminal of the battery accepts electrons that the battery is producing .The plate on the capacitor that attaches to the positive terminal of the battery loses electrons to the battery. Once it’s charged , the capacitor has the sam voltage as the battery.
 <div align="center">
 <img src="images/i11.png" width="10%">
-<p>Figure: 18 </p>
+<p>Figure: 19 </p>
 </div>
 ### Charging - Question
 
 Here you have a battery ,light bulb and a capacitor .If they are connected – what will happen to the bulb?
 <div align="center">
 <img src="images/i12.png" width="10%">
-<p>Figure: 12 </p>
+<p>Figure: 20 </p>
 </div>
 
 - It will never glow
@@ -254,7 +254,7 @@ Here you have a battery ,light bulb and a capacitor .If they are connected – w
 
 <div align="center">
 <img src="images/i13.png" width="10%">
-<p>Figure: 13 </p>
+<p>Figure: 21 </p>
 </div>
 
 If you then remove the battery and replace it with a wire , current will flow from one plate of the capacitor to the other. The bulb will light initially and then dim as the capacitor discharges , until it is completely out.
