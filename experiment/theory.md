@@ -120,20 +120,21 @@ Capacitors in series means two or more capacitors connected in a single line. Po
 </div>
 
 $$Q_T= Q_1=Q_2=.... =Q$$
-$$I_C=I1=I2=...=I$$
+
+$$I_C = I1=I2=...=I$$
 
 where,
-$$ Q_T $$is the total charge,
-$$ I_C $$ is the capacitive current
+$$Q_T$$ is the total charge,
+$$I_C$$ is the capacitive current
 
 When the capacitors are connected in series Charge and current is same on all the capacitors.
 
 For series capacitors same quantity of electrons will flow through each capacitor because the charge on each plate is coming from the adjacent plate. So, coulomb charge is same. As current is nothing but flow of electrons, current is also same.
 
 Equivalent Capacitance for two capacitors in series,
-1Ceq=1C1+1C2
+$$\frac{1}{C_eq}=\frac{1}{C_1}+\frac{1}{C_2}$$
  
-1Ceq=C1C2C1+C2
+$$\frac{1}{C_eq}=\frac{C_1C_2}{C_1+C_2}$$
 
 
 ### Capacitors in parallel
