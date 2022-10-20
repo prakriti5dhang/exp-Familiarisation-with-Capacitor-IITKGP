@@ -40,7 +40,7 @@ A good rule of thumb is to never place a voltage across the capacitor which exce
 ### Mathematical Notation
 
 - A static description of the way a capacitor behaves would be to say Q=C×V , where Q is the total charge, C is a measure of how big the capacitor is and V is the voltage across it.
-- A dynamic description ,ie one that changes with time would be to say I=C×dVdt . This is just the time derivative of the static description .C is constant wrt time, I is the rate at which charge flows . This essentially says – the bigger the current , the faster the capacitor’s voltage changes.
+- A dynamic description ,ie one that changes with time would be to say $$I=C×\frac{dV}{dt}$$ . This is just the time derivative of the static description .C is constant wrt time, I is the rate at which charge flows . This essentially says – the bigger the current , the faster the capacitor’s voltage changes.
 
 ## Classification of Capacitors
 UN-POLARIZED | POLARIZED 
@@ -148,11 +148,11 @@ When the capacitors are connected in parallel the total capacitance value is inc
 
 All the capacitors which are connected in parallel have the same voltage and is equal to the VT applied between the input and output terminals of the circuit.
 
-VT=V1=V2
+$$V_T=V_1=V_2$
 
 
 Equivalent Capacitance for two capacitors in parallel,
-Ceq=C1+C2
+$$C_eq=C_1+C_2$$
 
 ### Function of Capacitance
 
