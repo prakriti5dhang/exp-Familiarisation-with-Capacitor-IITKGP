@@ -119,12 +119,12 @@ Capacitors in series means two or more capacitors connected in a single line. Po
 <p>Figure: 11 </p>
 </div>
 
-$$Q_T$$= $$Q_1=Q_2=.... =Q$$
+$$Q_T= Q_1=Q_2=.... =Q$$
 $$I_C=I1=I2=...=I$$
 
 where,
-$$Q_T$$is the total charge,
-$$I_C$$ is the capacitive current
+$$ Q_T $$is the total charge,
+$$ I_C $$ is the capacitive current
 
 When the capacitors are connected in series Charge and current is same on all the capacitors.
 
