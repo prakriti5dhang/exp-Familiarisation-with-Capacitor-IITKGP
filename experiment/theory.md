@@ -261,3 +261,5 @@ Here you have a battery ,light bulb and a capacitor .If they are connected – w
 If you then remove the battery and replace it with a wire , current will flow from one plate of the capacitor to the other. The bulb will light initially and then dim as the capacitor discharges , until it is completely out.
 
 A color code was used on polyester capacitors for many years. It is now obsolete, but of course there are many still around. The colors should be read like the resistor code, the top three color bands giving the value in pF. Ignore the 4th band (tolerance) and 5th band (voltage rating). .For example: brown, black, orange means 10000pF. Note that there are no gaps between the color bands, so 2 identical bands actually appear as a wide band. For example: wide red, yellow means 220nF.
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
